@@ -18,4 +18,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - 'target/ccdemo.war'
+    - target/ccdemo.war
